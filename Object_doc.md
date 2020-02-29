@@ -99,7 +99,7 @@ Once you understand these concepts the world of OOP comes alive.
 		}
 And by using the keyword **new** you can create an new instance of that object with the it properties and methods.
 
-### How to access the properties and methods in objects?
+## How to access the properties and methods in objects?
 
 Let's look at built-in JavaScript properties and methods
 
