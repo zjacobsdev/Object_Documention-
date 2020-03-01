@@ -71,7 +71,7 @@ There are four principles of object-oriented programming:
 
 Once you understand these concepts the world of OOP comes alive.
 
-## [](https://github.com/zjacobsdev/Object_Documention-/blob/master/Object_doc.md#how-do-you-create-new-objects)How Do You Create New Objects?
+## [](https://github.com/zjacobsdev/Object_Documention-/blob/master/Object_doc.md#how-do-you-create-new-objects)How do you create new objects?
 
 1.  Use an object initializer
     
