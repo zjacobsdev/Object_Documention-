@@ -8,7 +8,7 @@
 > Example: Car is the object
 
 ```javascript
-let car = {
+let Car = {
 
  // Properties and methods go here
  
@@ -29,9 +29,9 @@ There are properties and/or methods associated with that object.
 ```javascript
 let Car = {
 
-  model: 'sedan'
-  color: 'red'
-  brand: 'Lexus'
+  model: 'sedan',
+  color: 'red',
+  brand: 'Lexus',
 
 }
 
@@ -126,7 +126,7 @@ Once you understand these concepts the world of OOP comes alive.
     
    ```
    
-And by using the keyword  ```new```  you can create an new instance of that object with the it properties and methods.
+And by using the keyword  ```new```  you can create an new instance of that object with it's properties and methods.
 
 ***Example 3:***
 ```javascript     
